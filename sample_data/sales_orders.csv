@@ -1,0 +1,16 @@
+order_id,customer_id,employee_id,product_name,category,quantity,unit_price,total_amount,order_date,region
+1001,C101,E01,Ergonomic Chair,Furniture,2,149.99,299.98,2024-01-15,North
+1002,C102,E02,Wireless Keyboard,Electronics,5,49.99,249.95,2024-01-18,South
+1003,C103,E01,Standing Desk,Furniture,1,399.00,399.00,2024-01-22,North
+1004,C104,E03,4K Monitor,Electronics,2,299.99,599.98,2024-02-05,East
+1005,C105,E02,Noise-Canceling Headphones,Electronics,3,199.99,599.97,2024-02-14,South
+1006,C106,E04,Gel Mouse Pad,Accessories,10,12.50,125.00,2024-02-20,West
+1007,C107,E03,USB-C Docking Station,Electronics,4,89.00,356.00,2024-03-01,East
+1008,C108,E05,Bookshelf,Furniture,1,180.00,180.00,2024-03-12,Central
+1009,C109,E04,Webcam 1080p,Electronics,6,59.99,359.94,2024-03-19,West
+1010,C110,E05,Desk Lamp,Accessories,8,25.00,200.00,2024-03-25,Central
+1011,C101,E01,Monitor Arm,Accessories,3,45.00,135.00,2024-04-02,North
+1012,C103,E02,Bluetooth Speaker,Electronics,4,79.99,319.96,2024-04-10,South
+1013,C105,E03,Leather Office Chair,Furniture,2,249.00,498.00,2024-04-17,East
+1014,C108,E04,Laptop Stand,Accessories,5,34.99,174.95,2024-04-22,West
+1015,C110,E05,Mechanical Keyboard,Electronics,3,119.00,357.00,2024-04-28,Central

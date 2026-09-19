@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Environment Variables & Secrets (CRITICAL: Never commit API keys)
+.env
+.env.local
+*.env
+!.env.example
+
+# Local Databases & Scratch files
+*.db
+*.sqlite
+*.sqlite3
+data_qa.db
+scratch/
+
+# Streamlit Local Config / Secrets
+.streamlit/secrets.toml
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/

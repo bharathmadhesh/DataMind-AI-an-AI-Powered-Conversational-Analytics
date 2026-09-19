@@ -1,0 +1,8 @@
+employee_id,first_name,last_name,department,role,salary,hire_date,location
+E01,Alice,Smith,Sales,Senior Sales Exec,85000,2021-03-15,New York
+E02,Bob,Jones,Sales,Account Representative,62000,2022-06-01,Austin
+E03,Carol,Taylor,Sales,Sales Director,115000,2019-11-10,Chicago
+E04,David,Brown,Customer Success,Success Manager,72000,2022-01-20,San Francisco
+E05,Eva,Davis,Operations,Logistics Specialist,68000,2023-04-05,Denver
+E06,Frank,Miller,Customer Success,Support Specialist,54000,2023-08-12,Austin
+E07,Grace,Wilson,Finance,Financial Analyst,78000,2020-09-01,New York
